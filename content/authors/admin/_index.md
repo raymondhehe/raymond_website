@@ -1,7 +1,7 @@
 ---
 title: Wai Man SI (Raymond)
 role: Ph.D student at CISPA
-avatar_filename: 8700605f-5e23-4bcc-8794-c56fe1e5008a.jpeg
+avatar_filename: ""
 bio: My research interests include Secure and Privacy Preserving Machine
   Learning with NLP model.
 interests:
