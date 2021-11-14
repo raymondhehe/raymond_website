@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Raymond's home # Website name
-baseurl: 'raymondsi.me' # Website URL
+baseurl: 'http://raymondsi.me/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
