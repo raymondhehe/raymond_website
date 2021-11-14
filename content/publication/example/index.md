@@ -18,7 +18,7 @@ url_source: ""
 url_video: ""
 title: Telling Stories through Multi-User Dialogue by Modeling Character Relations
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
@@ -27,7 +27,7 @@ image:
   preview_only: false
 date: 2021-11-14T19:16:30.368Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
