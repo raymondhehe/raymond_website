@@ -9,6 +9,7 @@ authors:
   - Juntao Li
   - Dongyan Zhao
   - Rui Yan
+publication: PRICAI 2019
 draft: false
 featured: false
 image:
