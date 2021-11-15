@@ -6,8 +6,8 @@ bio: My research interests include Secure and Privacy Preserving Machine
   Learning with NLP model.
 interests:
   - Secure and Privacy Preserving Machine Learning
-  - NLP
-  - MIR
+  - Natural Language Generation
+  - Music Information Retrieval
 social: []
 organizations:
   - name: CISPA Helmholtz Center for Information Security
