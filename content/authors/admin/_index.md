@@ -17,7 +17,7 @@ education:
     - course: PhD in Informatics
       institution: CISPA Helmholtz Center for Information Security
       year: ""
-    - course: Msc in Computer Science
+    - course: MSc in Computer Science
       institution: Georgia Institute of Technology
       year: 2021
     - course: BSc in Computer Science
