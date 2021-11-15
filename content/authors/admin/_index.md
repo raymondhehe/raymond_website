@@ -1,6 +1,6 @@
 ---
 title: Wai Man SI (Raymond)
-role: Ph.D student at CISPA
+role: PhD student at CISPA
 avatar_filename: ""
 bio: My research interests include Secure and Privacy Preserving Machine
   Learning with NLP model.
@@ -27,8 +27,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I received my Bachleor and Master in Computer Science from the School of Computing at the Georgia Institute of Technology advised by Professor Mark Riedl at the E[](https://eilab.gatech.edu/)ntertainment Intelligence Lab and advised by Professor Alexander Lerch at the MIR lab. My research interests include Secure and Privacy Preserving Machine Learning with NLP model and MIR.
+I am a first-year PhD student at CISPA Helmholtz Center for Information Security, supervised by Dr. Michael Backes and Dr. Yang Zhang. Prior to that, I received my bachleor and master in Computer Science from the School of Computing at the Georgia Institute of Technology advised by Professor Mark Riedl at the Entertainment Intelligence Lab and advised by Professor Alexander Lerch at the Music Informatics Group. My research interests include Secure and Privacy Preserving Machine Learning with NLP model and Music Information Retrieval.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
